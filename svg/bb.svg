@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458334 26.458333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="bb.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="7.911898"
+     inkscape:cx="47.460167"
+     inkscape:cy="47.207383"
+     inkscape:window-width="1862"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1775"
+       spacingx="0.52916667"
+       spacingy="0.52916667"
+       originx="0"
+       originy="0"
+       empspacing="10" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1583"
+       transform="matrix(0.95454547,0,0,0.95454547,0.60132532,0.93806842)">
+      <path
+         id="path1253"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.272726"
+         d="M 13.229167,0 A 2.6458333,4.4979167 0 0 0 10.583333,4.4979167 2.6458333,4.4979167 0 0 0 13.229167,8.995833 2.6458333,4.4979167 0 0 0 15.875,4.4979167 2.6458333,4.4979167 0 0 0 15.543237,2.3166545 l -2.31407,2.9750122 0.842842,-5.0575725 A 2.6458333,4.4979167 0 0 0 13.229167,0 Z" />
+      <path
+         id="path1517"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.291109"
+         d="M 13.229394,7.1804401 A 3.7349029,14.312936 0 0 0 9.5278421,19.579167 H 16.930491 A 3.7349029,14.312936 0 0 0 13.229394,7.1804401 Z" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke-width:0.204945"
+         id="path1576"
+         cx="13.229167"
+         cy="20.902082"
+         rx="6.3499999"
+         ry="2.3812501" />
+    </g>
+  </g>
+</svg>
