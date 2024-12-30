@@ -25,10 +25,10 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.3986392"
-     inkscape:cx="387.87703"
-     inkscape:cy="32.531621"
+     inkscape:cx="380.01223"
+     inkscape:cy="35.391543"
      inkscape:window-width="1862"
-     inkscape:window-height="1011"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -48,7 +48,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#32ff32;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.187088"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-dasharray:none"
        id="rect2968"
        width="211.66666"
        height="26.458332"
@@ -56,7 +56,7 @@
        y="-26.458332"
        transform="scale(-1)" />
     <rect
-       style="fill:#320032;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.264583"
+       style="fill:#6a6065;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-dasharray:none"
        id="rect19069"
        width="26.458332"
        height="26.458332"
@@ -64,7 +64,7 @@
        y="-26.458332"
        transform="scale(-1)" />
     <rect
-       style="fill:#320032;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.264583"
+       style="fill:#6a6065;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-dasharray:none"
        id="rect19069-3"
        width="26.458332"
        height="26.458332"
@@ -72,7 +72,7 @@
        y="-26.458332"
        transform="scale(-1)" />
     <rect
-       style="fill:#320032;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.264583"
+       style="fill:#6a6065;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-dasharray:none"
        id="rect19069-6"
        width="26.458332"
        height="26.458332"
@@ -80,7 +80,7 @@
        y="-26.458332"
        transform="scale(-1)" />
     <rect
-       style="fill:#320032;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.264583"
+       style="fill:#6a6065;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-opacity:1;stroke-dasharray:none"
        id="rect19069-7"
        width="26.458332"
        height="26.458332"
