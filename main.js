@@ -9,11 +9,22 @@ function Generate(){
 	setup[r1]="r1"
 	console.log("r1=", r1)
 	//r2
-	let r2=genNr(r1+2, 7)
+	let r2
+	let p=[]
+	for(let i=0;i<8;i+=1){
+		if(setup[i]==null && Math.abs(r1-i)>1)
+			p=[...p, i]
+	}
+	console.log("p=",p)
+	r2=p[ genNr(0, p.length-1) ]
 	setup[r2]="r2"
 	console.log("r2=", r2)
 	//k
-	let k=genNr(r1+1, r2-1)
+	let k
+	if(r1<r2)
+		k=genNr(r1+1, r2-1)
+	else
+		k=genNr(r2+1, r1-1)
 	setup[k]="k"
 	console.log("k=", k)
 	//b1
@@ -84,4 +95,9 @@ function Generate(){
 }
 function genNr(min, max){
 	return Math.floor(Math.random()*(max+1-min))+min
+}
+function abs(x){
+	if(x<0)
+		return -1*x
+	return x
 }
